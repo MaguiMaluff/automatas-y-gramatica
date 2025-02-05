@@ -11,7 +11,7 @@ class Lector():
         data_per_user = []
         total_conections = 0
         for row in lista:
-            if user == row[2]:
+            if user == row[3]:
                 total_conections += 1
                 data_per_user.append(row)
         data_per_user.append(total_conections)

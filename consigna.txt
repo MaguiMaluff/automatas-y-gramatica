@@ -3,6 +3,8 @@ Se debe mostrar una lista las fechas de inicio y fin de conexión por día y tot
 la cantidad de conexiones que ha tenido y al final el total de conexiones en el período ingresado. 
 Debe incluir la posibilidad de ingresar un rango de fechas y de seleccionar el usuario.
 
+Numero de Columna en la Lista
+
 0 ID
 1 ID_Sesion
 2 ID_Conexión_unico
