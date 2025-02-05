@@ -1,0 +1,21 @@
+Seguimiento de conexiones de un usuario que ha tenido en un período de tiempo (rango de fechas). 
+Se debe mostrar una lista las fechas de inicio y fin de conexión por día y totalizar por día, 
+la cantidad de conexiones que ha tenido y al final el total de conexiones en el período ingresado. 
+Debe incluir la posibilidad de ingresar un rango de fechas y de seleccionar el usuario.
+
+0 ID
+1 ID_Sesion
+2 ID_Conexión_unico
+3 Usuario
+4 IP_NAS_AP
+5 Tipo__conexión
+6 Inicio_de_Conexión_Dia
+7 Inicio_de_Conexión_Hora
+8 FIN_de_Conexión_Dia
+9 FIN_de_Conexión_Hora
+10 Session_Time
+11 Input_Octects
+12 Output_Octects
+13 MAC_AP
+14 MAC_Cliente
+15 Razon_de_Terminación_de_Sesión
